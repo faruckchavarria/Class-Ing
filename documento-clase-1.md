@@ -18,6 +18,7 @@ Una ves que hemos instalado el programa, tengamos en cuenta que debemos instalar
 Como lo mencionamos anteriormente cada una de las extensiones mejora la experiencia de el enmaquetado de la pagina web, y de esta manera generar un mejor campo visual a los usuarios.
 
 ![Texto alternativo](/imagen/git-bash-config.PNG)
+
 ## Instalando y configurando GIT
 
 Git es una herramienta muy funcional que nos permite llevar un control de nuestro proyecto y poder trabajarlo desde cualquiera area remota, para descargar este porgrama nos dirigios [Aqui](https://git-scm.com/) la pagina oficial que nos permite descargar las versiones mas actuales de esta herramienta.  
@@ -33,6 +34,6 @@ es un proceso uy rapido y sencillo solo debemos crear una carpeta en nuestro lug
 
 ## Creando una Cuenta en Git
 
-Para nosotros alojar todas nuestras versiones en Git debemos crear un usuario en la plataforma de Git Hub donde se podra ver de forma visual todos camibios y versiones de nuestros proyectos.  ![Texto alternativo](/imagen/Captura3.PNG)
+Para nosotros alojar todas nuestras versiones en Git debemos crear un usuario en la plataforma de Git Hub donde se podra ver de forma visual todos cambios y versiones de nuestros proyectos.  ![Texto alternativo](/imagen/Captura3.PNG)
 
 
